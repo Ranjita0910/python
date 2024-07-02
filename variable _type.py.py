@@ -1,0 +1,35 @@
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> n=67
+>>> type(n)
+<class 'int'>
+>>> a="ravi"
+>>> type(a)
+<class 'str'>
+>>> b=3.4
+>>> type(b)
+<class 'float'>
+>>> text='jayaraj'
+>>> type(text)
+<class 'str'>
+>>> number=786
+>>> type(number)
+<class 'int'>
+>>> pi=3.14
+>>> type(pi)
+<class 'float'>
+>>> k=56
+>>> type(k)
+<class 'int'>
+>>> y=7.5
+>>> type(y)
+<class 'float'>
+>>> g="hello"
+>>> type(g)
+<class 'str'>
+>>> str
+<class 'str'>
+>>> int
+<class 'int'>
+>>> float
+<class 'float'>
