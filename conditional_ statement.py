@@ -1,4 +1,4 @@
-###conditional statements###
+conditional statements###
 ## simple example1
 
 a=int(input('even number:'))
